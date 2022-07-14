@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.jayson</groupId>
     <artifactId>jayson-muisc</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>jayson-muisc</name>
     <description>jayson-muisc</description>
     <properties>
